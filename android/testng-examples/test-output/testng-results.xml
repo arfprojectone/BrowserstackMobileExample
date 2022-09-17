@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="31204" started-at="2022-07-31T03:59:22Z" finished-at="2022-07-31T03:59:53Z">
+  <suite name="Default suite" duration-ms="30821" started-at="2022-08-04T14:01:46Z" finished-at="2022-08-04T14:02:16Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="31204" started-at="2022-07-31T03:59:22Z" finished-at="2022-07-31T03:59:53Z">
+    <test name="Default test" duration-ms="30821" started-at="2022-08-04T14:01:46Z" finished-at="2022-08-04T14:02:16Z">
       <class name="com.browserstack.run_second_test.SecondTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.browserstack.run_second_test.SecondTest@464bee09]" name="setUp" is-config="true" duration-ms="24226" started-at="2022-07-31T10:59:22Z" finished-at="2022-07-31T10:59:46Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.browserstack.run_second_test.SecondTest@464bee09]" name="setUp" is-config="true" duration-ms="24219" started-at="2022-08-04T21:01:46Z" finished-at="2022-08-04T21:02:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="test()[pri:0, instance:com.browserstack.run_second_test.SecondTest@464bee09]" name="test" duration-ms="5320" started-at="2022-07-31T10:59:46Z" finished-at="2022-07-31T10:59:51Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.browserstack.run_second_test.SecondTest@464bee09]" name="test" duration-ms="5050" started-at="2022-08-04T21:02:10Z" finished-at="2022-08-04T21:02:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.browserstack.run_second_test.SecondTest@464bee09]" name="tearDown" is-config="true" duration-ms="1647" started-at="2022-07-31T10:59:51Z" finished-at="2022-07-31T10:59:53Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.browserstack.run_second_test.SecondTest@464bee09]" name="tearDown" is-config="true" duration-ms="1500" started-at="2022-08-04T21:02:15Z" finished-at="2022-08-04T21:02:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
